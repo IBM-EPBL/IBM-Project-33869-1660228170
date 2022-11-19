@@ -15,6 +15,9 @@ Abarna.S
 
 Priyadharshini.B
 
+Click these to navigate to that location
+
+
 <a href="https://github.com/IBM-EPBL/IBM-Project-33869-1660228170/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase">Ideation Phase</a>
 
 <a href="https://github.com/IBM-EPBL/IBM-Project-33869-1660228170/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I">Project Design Phase I</a>
@@ -23,3 +26,6 @@ Priyadharshini.B
 
 <a href="https://github.com/IBM-EPBL/IBM-Project-33869-1660228170/tree/main/Project%20Design%20%26%20Planning/Project%20Planning">Project Planning</a>
 
+<a href="https://github.com/IBM-EPBL/IBM-Project-33869-1660228170/tree/main/Project%20Development%20Phase">Project Development Phase</a>
+
+<a href="https://github.com/IBM-EPBL/IBM-Project-33869-1660228170/tree/main/Final%20Deliverables">Final Deliverables</a>
