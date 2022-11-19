@@ -15,7 +15,7 @@ Abarna.S
 
 Priyadharshini.B
 
-Click these to navigate to that location
+Click these to navigate to those locations:
 
 
 <a href="https://github.com/IBM-EPBL/IBM-Project-33869-1660228170/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase">Ideation Phase</a>
