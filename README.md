@@ -1,11 +1,11 @@
 # IBM-Project-33869-1660228170
 Real-Time River Water Quality Monitoring and Control System
 
-Team leader
+<h4>Team leader</h4>
 
 Rajashree.S
 
-Team members
+<h4>Team members</h4>
 
 Harini.K
 
